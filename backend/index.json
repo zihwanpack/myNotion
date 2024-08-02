@@ -1,0 +1,45 @@
+{
+  "Home": {
+    "Pop": {
+      "Artists": {
+        "Taylor Swift": {
+          "Albums": {
+            "Folklore": ["cardigan.mp3", "exile.mp3"],
+            "1989": ["shake_it_off.mp3", "blank_space.mp3"]
+          },
+          "Members": ["Taylor Swift", "Jack Antonoff", "Aaron Dessner"]
+        },
+        "Ed Sheeran": {
+          "Albums": {
+            "÷ (Divide)": ["shape_of_you.mp3", "perfect.mp3"]
+          },
+          "Members": ["Ed Sheeran", "Justin Bieber"]
+        },
+        "Dua Lipa": {
+          "Albums": {
+            "Future Nostalgia": ["don't_start_now.mp3", "physical.mp3"],
+            "Dua Lipa": ["new_rules.mp3", "IDGAF.mp3"]
+          },
+          "Members": ["Dua Lipa"]
+        },
+        "Ariana Grande": {
+          "Albums": {
+            "Thank U, Next": [
+              "thank_u_next.mp3",
+              "break_up_with_your_girlfriend.mp3"
+            ],
+            "Sweetener": ["no_tears_left_to_cry.mp3", "breathin.mp3"]
+          },
+          "Members": ["Ariana Grande"]
+        },
+        "The Weeknd": {
+          "Albums": {
+            "After Hours": ["blinding_lights.mp3", "heartless.mp3"],
+            "Starboy": ["starboy.mp3", "I_feel_it_coming.mp3"]
+          },
+          "Members": ["The Weeknd"]
+        }
+      }
+    }
+  }
+}
