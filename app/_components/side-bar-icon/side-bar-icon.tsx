@@ -19,7 +19,7 @@ const SideBarIcon: React.FC<SideBarIconProps> = ({ data }) => {
 
   return (
     <div
-      className="mt-3 flex gap-2 cursor-pointer"
+      className="mt-3 flex gap-2 cursor-pointer overflow-hidden"
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
       onClick={clickHandler}
